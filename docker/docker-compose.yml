@@ -1,0 +1,5 @@
+services:
+  web:
+    image: nginx:latest
+    ports:
+      - "80:80"  # Mapea el puerto 80 del contenedor al puerto 80 de tu máquina
