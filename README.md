@@ -17,3 +17,7 @@ Este proyecto contiene scripts para la instalación y configuración de Docker y
 - [Documentación oficial de Docker](https://docs.docker.com/)
 - [Documentación oficial de Docker Compose](https://docs.docker.com/compose/)
 - [Cómo generar llaves SSH](https://www.ssh.com/academy/ssh/keygen)
+
+# Proyecto Ejemplo
+
+Este es un proyecto de ejemplo para aprender a hacer Pull Requests en GitHub.
